@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_alert_banner.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_approve_btn.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_attach_btn_dashed.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_audience_toggle_active.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_audience_toggle_group.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_avatar_badge.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_avatar_circle.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_avatar_circle_round.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_avatar_frame_white.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_back_circle.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_back_circle_light.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_badge_admins.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_badge_everyone.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_broadcast_card.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_student.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_super_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_camera_overlay.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_card.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_change_cover_pill.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_chip.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_chip_active.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_chip_select_blue.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_compose_box.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_compose_card.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_compose_card_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_compose_photo_preview.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_compose_textarea.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_connect_note.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_cover_placeholder.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_create_post_box.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_create_post_input.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_dialog_btn_cancel.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_dialog_btn_submit.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_dialog_textarea.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_dialog_top_rounded.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_doc_btn_approve.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_doc_btn_reject.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_doc_icon.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_dropdown_arrow.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_edittext.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_fab.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_folder_badge_attn.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_folder_badge_clear.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_folder_card.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_folder_row_divider.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_curve_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_curve_student.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_curve_super_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_gradient.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_gradient_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_gradient_student.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_icon_btn.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_header_icon_circle.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_icon_circle.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_id_chip.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_info_icon.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_info_note.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_input_pill_white.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_join_btn.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_joined_tag.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_logout_btn.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_nav_underline.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_notif_card_unread.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_notif_dot.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_notif_icon_unread.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_oc_avatar_blue.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_oc_avatar_teal.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_org_avatar_large.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_org_badge.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_org_chip_add.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_org_chip_add_dashed.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_org_chip_card.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_pending_card_border.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_pending_tag.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_photo_thumb_add.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_photo_thumb_frame.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_photo_thumb_frame_small.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_pill_btn_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_pill_btn_navy.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_pill_btn_teal.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_pill_input_blue.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_pill_input_teal.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_post_submit_btn.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_profile_avatar.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_qa_circle_amber.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_qa_circle_blue.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_qa_circle_navy.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_qa_circle_teal.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_recruit_card.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_recruitment_banner.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_reject_btn.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_remove_badge.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_role_member.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_role_officer.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_role_pill.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_search.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_stat_divider.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_stat_icon_amber.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_stat_icon_blue.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_stat_icon_coral.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_stat_icon_teal.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_status_dot.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_storage_summary.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_tab_underline_active.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_tag_active.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_tag_new.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_tag_overdue.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_tag_pending.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_toggle_active.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_toggle_group.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_unread_dot.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_unread_notif_dot.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_upload_dashed.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_add.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_alert.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_alert_triangle.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_right.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_back_arrow.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bell.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_building.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_calendar.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_check.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_check_circle_filled.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_close.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_comment.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_crown.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_edit.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_eye.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_eye_off.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_folder.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_folder_list.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_grad_cap.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_heart.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_id_card.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_info_circle.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_interest.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_key.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_lock.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_logout.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_logout_small.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_mail.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_more_vert.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_nav_announcements.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_nav_dashboard.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_nav_documents.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_nav_members.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_nav_orgs.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_notes.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_person.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_person_add.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_phone.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_photo.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_profile_person.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_reject_x.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_school.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_send.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_upload.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_verified.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_login.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_profile.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_sign_up.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_edit_org_profile.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_folder_documents.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_manage_admins.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_notifications.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_post_announcement.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_review_documents.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_student_dashboard.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_student_login.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_student_sign_up.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_super_admin_dashboard.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_super_admin_login.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_super_admin_profile.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_join_org.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_admin_announcements.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_admin_dashboard.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_admin_notifications.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_announcements.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_browse_orgs.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_documents.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_members.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_organization_profile.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_organizations.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_requirements.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_student_announcement.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_student_dashboard.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_active_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_browse_org.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_document_review.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_feed_photo_post.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_feed_text_post.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_file_chip.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_folder.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_folder_row.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_member.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_notification.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_organization.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_pending_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_photo_thumb.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_requirement_doc.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/spinner_dropdown_item.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/spinner_item.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu_admin.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu_student.xml">
+        <config>
+          <theme>@style/Theme.KAYARA</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da023efd-3029-4646-b604-e6dae3364cc4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=C:\Users\daisymae\.android\avd\Medium_Phone.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IXD7dTdd0ecfFESlUcCwm4cRnJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/daisymae/AndroidStudioProjects/KAYARA/app/src/main/res/drawable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daisymae\AndroidStudioProjects\KAYARA\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-369139772">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.1837708977">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.-614603113">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.1011661603">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.-844880244">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.-447980384">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.-626855759">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.1617708373">
+      <recent name="com.example.kayara" />
+    </key>
+    <key name="android.template.-1869667209">
+      <recent name="com.example.kayara" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="KAYARA.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da023efd-3029-4646-b604-e6dae3364cc4" name="Changes" comment="" />
+      <created>1787901854678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787901854678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.kayara">
+          <value>
+            <CheckInfo lastCheckTimestamp="1789730435080" />
+          </value>
+        </entry>
+        <entry key="com.example.kayara.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1789730435080" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
